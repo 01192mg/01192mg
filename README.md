@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Waving&color=gradient&height=200&text=Mingyu&nbsp;Lee&fontAlign=70&fontAlignY=40&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=Waving&color=gradient&customColorList=14,18,20,21,22,23,25&height=200&text=Mingyu&nbsp;Lee&fontAlign=70&fontAlignY=40&animation=twinkling)
 ### Hi there 👋
 <!--
 **01192mg/01192mg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
